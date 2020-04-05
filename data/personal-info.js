@@ -1,0 +1,2 @@
+var degn='Engineer',org='Virtusa Software Services',mail='hellomanikandanganapathy@gmail.com',fb='https://www.facebook.com/hellomanikandanganapathy',tweet='https://twitter.com/manikandanmsg',inst='https://www.instagram.com/manikandan_ganapathy/',medium='https://medium.com/@manikandanganapathy.in',blogger='https://manikandanganapathy.blogspot.com/', welcome="Hi! I'm Manikandan (pronounced 'Manikan-dan'), a full stack developer with over <span class='careerExp'></span> years of experiences in a wide range of disciplines.";
+include('./data/script.js');
